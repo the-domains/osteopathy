@@ -1,27 +1,19 @@
 ---
 inFeed: true
-description: Fundamentals Course
-dateModified: '2018-01-10T22:56:07.878Z'
-datePublished: '2018-01-10T22:56:10.017Z'
+description: A review of the osteopathic lesion in relation to disease.
+dateModified: '2018-01-10T22:59:26.625Z'
+datePublished: '2018-01-10T22:59:34.045Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-01-10-fundamentals-course.md
 starred: false
 datePublishedOriginal: '2018-01-10T22:56:10.017Z'
-sourcePath: _posts/2018-01-10-fundamentals-course.md
 _type: Blurb
 
 ---
-Fundamentals Course
-
-8 The osteopathic centres - a review of the osteopathic lesion in relation to disease.
-
-Robert Cartwright DO, ND, LicAC, MICO.
-
-Saturday 19th November 2016
-
-8 A review of the osteopathic lesion in relation to disease.
+A review of the osteopathic lesion in relation to disease.
 
 Objectives - To ensure the student has a clear understanding of the principles of the Osteopathic lesion and some sense of its historical context in the development of Osteopathic research - from the original definitions of Still, through the descriptions of Littlejohn, Burns, McConnell et al. to the research of Korr, Denslow and Patterson. Any more recent research that reinforces this material will be used to support these ideas.
 
