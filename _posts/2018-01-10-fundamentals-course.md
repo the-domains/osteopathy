@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: A review of the osteopathic lesion in relation to disease.
-dateModified: '2018-01-10T23:12:07.385Z'
-datePublished: '2018-01-10T23:12:10.618Z'
+dateModified: '2018-01-10T23:23:38.407Z'
+datePublished: '2018-01-10T23:23:40.443Z'
 title: 'Kirksville 1898, South West Quarter'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-01-10-fundamentals-course.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-01-10T22:56:10.017Z'
-_type: Blurb
+url: kirksville-1898-south-west-quarter/index.html
+_type: Article
 
 ---
 A review of the osteopathic lesion in relation to disease.
@@ -84,18 +86,14 @@ JM Littlejohn also witnessed AT Still experimenting out behind his own old home 
 In the literature of the late 1800's these disturbances where being less frequently described as dislocations as a description of a gross deviation in palpable anatomy and a partial dislocation or a minor subluxation for what would appear as a lesser degree of anatomical disturbance and the term "lesion" starts to become mentioned and was often categorised as being either osseous, muscular or ligamentous, visceral and composite.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb41ab04-d366-4c8d-8384-2ce5543ca4a5.jpg)
 
 Map of Kirksville's south west quarter in 1898 showing several residences.
-
-Slide 10
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d347c49-5949-49b9-9720-e6ade9ea750f.jpg)
 
 Chart of 1240 cases that presented at Washington Institute of Osteopathy, only 3% were for lumbago.
 
-Slide 11
-
-Carl P McConnell DO
+**Carl P McConnell DO**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be6c983e-b471-4eef-afa4-82ffd5e639b3.jpg)
 
 McConnell was an early osteopathic researcher.
-
-Slide 12 
 
 In 1905 Carl P McConnell DO, reported the findings of his research at the AOA meeting in Denver, this work was in the physiology laboratories at the Pacific College of Osteopathy. Experiments were undertaken initially on 6 dogs. With an assistant, dogs were "lesioned" under anaesthesia. There was no direct tissue damage, and the dogs were observed from 3-80 days after lesioning before an autopsy was performed were samples were collected. 
 
@@ -113,13 +111,7 @@ The foramina involved in the lesions were examined and they failed to see any si
 
 He noted that muscular tension alone seemed to not produce a permanent lesion, complete removal of the muscles in the area of the lesion failed to change the vertebral rigidity of the lesion (as you may recall at this time lesions were often classified as osseous, muscular or ligamentous, visceral and composite). Removal of the ribs made little difference.  It was found that the permanent vertebral lesion was maintained by overstretched and damaged articular ligaments, once these were cut the segments motion was restored.
 
-Slide 13
-
-Press release "Dr McConnell finds his proof in the results of years of experiments"
-
-Slide 14
-
-Microscopic Examination
+**Microscopic Examination**
 
 At the level of the lesion structures of the cord, nerve roots and their branches and the sympathetics corresponding to the lesion were pathologically damaged. The tissues of the controls showed no such changes.
 
@@ -130,8 +122,6 @@ Axon degeneration extended above and below the lesion.
 Degeneration was traced from the nerve centres in the cord, posterior root ganglion and sympathetics. Usually between a third and two thirds of the bundle were affected.
 
 Mainly affected were the vasomotors.
-
-Slide 15
 
 These were deranged from the endothelial cells through the muscle fibres and the outer layer into the surrounding tissue.  
 
@@ -167,9 +157,7 @@ The lesioned areas showed acute pathological disturbances and not antemortem cha
 
 The microscopic changes in the muscle were clear and well defined, the contracture was due to an interstitial myositis, with an easily seen increase of connective tissue and atrophy of the muscle fibres.  The nerve to these fibres was found to be degenerated, as well as the related arterioles and veins.
 
-Slide 16
-
-Visceral Effects
+**Visceral Effects**
 
 Diapedesis and vessel congestion in the sub mucous coat of the stomach and intestines.
 
@@ -197,7 +185,7 @@ Observed effects in stomach and intestines;
 
 The kidney changes were interesting and had taken place when the lesion was produced at the 11th, 12th and 13th dorsals only. It appeared that the vasomotors were effected. The disturbance is a vascular one, resulting in congestion and typical haemorrhagic infiltration. 
 
-Other visceral disturbances occurred;
+**Other visceral disturbances occurred;**
 
 in a number the liver and spleen were found congested, the liver
 
@@ -213,9 +201,7 @@ A parenchymatous goiter formed in two of the animals, one of the these had a les
 
 The time period between death of the animal and the tissue being placed in fixing fluid was only a few minutes.
 
-Slide 17
-
-McConnell's Conclusions;
+**McConnell's Conclusions;**
 
 1\. The osteopathic lesion is something more than an effect at the foramen.
 
@@ -239,9 +225,7 @@ Certain paths are more affected than others and the entire neuron suffers thus p
 
 10\. Nervous tissue, especially the ganglia from the cord to the sympathetics and the connective tissue are richly supplied with blood, osteopathically the greatest disturbance seems to be in these nerve centres.  Owing to the sensitivity of nerve cells to circulatory changes it's a small step from functional impairment to organic disorder.
 
-Slide 19
-
-Louisa Burns DO
+**Louisa Burns DO**
 
 Louisa Burns is a much maligned and discredited early osteopathic researcher and pioneer. Most that discredit her work have never looked at it, do not know what it is and how relevant it still is today. For the first part of the 20th century she was the dominant figure in osteopathic research.
 
@@ -618,6 +602,7 @@ From here there is a descending response influencing the activity of both somati
 The point here being that the lesion does not just cause a facilitated segment, but the whole reflex mechanisms involved are sensitised, this can include the ascending tracts, higher brain centres, descending tracts and peripheral sympathetics to the urinary bladder, it's just not just a facilitated segment its a facilitated nervous system.
 
 The patients nocturia reduced to 2 times per night after 3 treatments, she could run without wetting herself, and her tennis elbow pain of 6 months almost gone after 4 treatments.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd2da2a-0fe3-4985-ab39-cf7538b113b7.jpg)
 
 Any questions?
 
