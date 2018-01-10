@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: A review of the osteopathic lesion in relation to disease.
-dateModified: '2018-01-10T22:59:33.374Z'
-datePublished: '2018-01-10T22:59:35.076Z'
-title: ''
+dateModified: '2018-01-10T23:12:07.385Z'
+datePublished: '2018-01-10T23:12:10.618Z'
+title: 'Kirksville 1898, South West Quarter'
 author: []
 publisher: {}
 via: {}
@@ -15,17 +15,11 @@ _type: Blurb
 ---
 A review of the osteopathic lesion in relation to disease.
 
-Objectives - To ensure the student has a clear understanding of the principles of the Osteopathic lesion and some sense of its historical context in the development of Osteopathic research - from the original definitions of Still, through the descriptions of Littlejohn, Burns, McConnell et al. to the research of Korr, Denslow and Patterson. Any more recent research that reinforces this material will be used to support these ideas.
-
-Slide 2
-
 Osteopathy, is a principle led system of healthcare.  It is based on a different "paradigm" or understanding of health and unhealth, being that the organism's most basic urge is survival and how our body is doing the best it can with the available resources and in its current environment. 
 
 Osteopathic pathology, is about context and understanding the adaptations that have been made because of the context. This moves us away from a tissue causing symptoms diagnosis, to a more aetiology based diagnosis.
 
 We are looking for nature to do its stuff, what we have to assess what is stopping the patient getting better, look at their internal and external environments and change what we can. This is like an audit.
-
-Slide 3
 
 To be able to treat more than musculoskeletal problems it is important for us as osteopaths to understand the manifestations of physiological processes within a more global environment which are either observable to us (i.e. rashes) or reported to us by the patient. 
 
@@ -37,25 +31,19 @@ One of the principles in osteopathy is the that structure and function are relat
 
 We look at the structure and relate that to what is happening to the physiology. One of the factors in our relation between health and disease is the affect of the osteopathic lesion.
 
-Slide 4
-
 The job of the osteopath is to remove obstruction's to healing, and this is what Littlejohn called;
 
-"adjustment."
+"_adjustment_"
 
 The adjustment removes the obstruction to healing and allows the healing process to begin, this sometimes creates a "reaction."
-
-Slide 5
 
 One of the principles in osteopathy is the that structure governs function and this affects the adaptive process of disease. 
 
 Probably the most contentious aspect of this over the last 125 odd years has been the "osteopathic spinal lesion."
 
-Slide 6
-
 In his book "Philosophy and Mechanical Principles of Osteopathy" AT Still's first mention of something that causes a disturbance to circulation is on p. 10 
 
-"I began to realise the power of nature to cure after skilful correction of conditions and abnormalities had been accomplished so to bring forth pure and healthy blood, the greatest known germicide." 
+"_I began to realise the power of nature to cure after skilful correction of conditions and abnormalities had been accomplished so to bring forth pure and healthy blood, the greatest known germicide._" 
 
 So healthy blood is important, without healthy blood the internal secretions cannot be made correctly as each gland that secretes its specialist substance is made from blood. Blood distributes the ingredients and these specialist structures take what is needed. 
 
@@ -71,19 +59,15 @@ It's interesting that he mentions germicide and his book is from 1910, when germ
 
 We are looking to help nature do its bit and repair our patients, to do this we have to look at everything in their environment which may be affecting their health and change what we can.
 
-Slide 7
-
 Still on p. 36 of Philosophy of Osteopathy mentions how lesions of the 11th and 12th ribs prolapse the diaphragm affecting circulation through the vena cava at the level of the 4th lumbar. 
 
-"Then you have cause for an intermittent pulse, as the heart finds no passage of blood through the prolapse diaphragm which is also stopping the vena cava, producing universal stagnation of blood and other fluids in all organs and glands below the diaphragm. From this, you have the beginning for abnormal growths of the womb, kidneys and all lymphatics of the liver, kidneys spleen and pancreas,and all tumours of the abdomen."
+"_Then you have cause for an intermittent pulse, as the heart finds no passage of blood through the prolapse diaphragm which is also stopping the vena cava, producing universal stagnation of blood and other fluids in all organs and glands below the diaphragm. From this, you have the beginning for abnormal growths of the womb, kidneys and all lymphatics of the liver, kidneys spleen and pancreas,and all tumours of the abdomen_."
 
-These are Stills thoughts on the aetiology of certain pathological processes.
+These are Still's thoughts on the aetiology of certain pathological processes.
 
 On p39 he refers to slipped or twisted vertebra, not specifically mentioning "lesion." Further on in the paragraph Still states "I contend that the curing comes direct from the liberation of the interspinal and intercostal nerves, freed of the bone pressure on the nerves of motion, sensation and nutrition. Did Still not like the word lesion?
 
 This is Still suggesting or stating that stagnation and congestion alters the physiology and the tissues adapt to the situation.
-
-Slide 8
 
 The earliest recollected research started in March 1898, Dr. Goetz and Littlejohn were regularly working together in the evenings to compile Littlejohn's physiology notes into the book "Physiology Exhaustive and Practical" and the subject of research was discussed, from here another discussion took place involving JML and Goetz and CMT Hulett, the trio decided to take the idea to Charlie Still and AT Still.
 
@@ -97,9 +81,7 @@ When strychnine was applied to local disturbances, without fail it led to organi
 
 JM Littlejohn also witnessed AT Still experimenting out behind his own old home on the ability of the organism to make its own water supply and on the relation of the lymphatic system to obesity. 
 
-In the literature of the late 1800's these disturbances where being less frequently described as dislocations as a description of a gross deviation in palpable anatomy and a partial dislocation or a minor subluxation for what would appear as a lesser degree of anatomical disturbance and the term "lesion" starts to become mentioned and was often categorised as being either osseous, muscular or ligamentous, visceral and composite.  
-
-Slide 9
+In the literature of the late 1800's these disturbances where being less frequently described as dislocations as a description of a gross deviation in palpable anatomy and a partial dislocation or a minor subluxation for what would appear as a lesser degree of anatomical disturbance and the term "lesion" starts to become mentioned and was often categorised as being either osseous, muscular or ligamentous, visceral and composite.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb41ab04-d366-4c8d-8384-2ce5543ca4a5.jpg)
 
 Map of Kirksville's south west quarter in 1898 showing several residences.
 
