@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A review of the osteopathic lesion in relation to disease.
-dateModified: '2018-01-10T23:23:38.407Z'
-datePublished: '2018-01-10T23:23:40.443Z'
+dateModified: '2018-01-11T17:45:34.126Z'
+datePublished: '2018-01-11T17:45:38.501Z'
 title: 'Kirksville 1898, South West Quarter'
 author: []
 publisher: {}
