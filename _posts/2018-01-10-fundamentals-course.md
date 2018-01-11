@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: A review of the osteopathic lesion in relation to disease.
-dateModified: '2018-01-11T17:45:34.126Z'
-datePublished: '2018-01-11T17:45:38.501Z'
+description: A review of the osteopathic lesion in relation to disease
+dateModified: '2018-01-11T17:45:58.018Z'
+datePublished: '2018-01-11T17:45:59.882Z'
 title: 'Kirksville 1898, South West Quarter'
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: kirksville-1898-south-west-quarter/index.html
 _type: Article
 
 ---
-A review of the osteopathic lesion in relation to disease.
+**A review of the osteopathic lesion in relation to disease**
 
 Osteopathy, is a principle led system of healthcare.  It is based on a different "paradigm" or understanding of health and unhealth, being that the organism's most basic urge is survival and how our body is doing the best it can with the available resources and in its current environment. 
 
