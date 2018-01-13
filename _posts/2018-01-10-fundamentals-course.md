@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A review of the osteopathic lesion in relation to disease
-dateModified: '2018-01-13T10:26:35.932Z'
-datePublished: '2018-01-13T10:26:37.378Z'
+dateModified: '2018-01-13T10:34:26.003Z'
+datePublished: '2018-01-13T10:34:27.697Z'
 title: ''
 author: []
 publisher: {}
@@ -25,6 +25,7 @@ Osteopathic pathology, is about context and understanding the adaptations that h
 We have to assess what is stopping the patient getting better, look at their internal and external environments and change what we can, which allows for nature to provide recovery as attempts to return to homeostasis are made. This is like an audit.
 
 To be able to treat more than musculoskeletal problems it is important for us as osteopaths to understand the manifestations of physiological processes within a more global environment which are either observable to us (i.e. rashes) or reported to us by the patient.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8087c880-bd5d-4f25-8e4f-596347b1886f.jpg)
 
 Thus a symptom is not something going wrong but an adaptation where the autonomic system is trying to achieve something and we become aware of it because something either hurts, is uncomfortable or it doesn't seem to function in the way we are used to.
 
@@ -33,6 +34,7 @@ Thus a symptom is not something going wrong but an adaptation where the autonomi
 One of the principles in osteopathy is the that structure and function are related and this affects the adaptive process of disease. Probably the most contentious aspect of this over the last 125 odd years has been the "osteopathic spinal lesion."
 
 Osteopaths look at the structure and relate that to what is happening to the physiology. One of the factors in our relation between health and disease is the affect of the osteopathic lesion.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e366b2e-0016-4d64-be03-3dacb92daa5d.jpg)
 
 The job of the osteopath is to remove obstruction's to healing, and this is what Littlejohn called;
 
