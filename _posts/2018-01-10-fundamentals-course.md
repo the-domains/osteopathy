@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: A review of the osteopathic lesion in relation to disease
-dateModified: '2018-01-13T10:35:04.104Z'
-datePublished: '2018-01-13T10:35:05.638Z'
-title: ''
+dateModified: '2018-01-13T10:35:56.360Z'
+datePublished: '2018-01-13T10:35:57.485Z'
+title: Andrew Taylor Still
 author: []
 publisher: {}
 via: {}
