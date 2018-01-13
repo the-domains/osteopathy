@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A review of the osteopathic lesion in relation to disease
-dateModified: '2018-01-13T10:34:26.003Z'
-datePublished: '2018-01-13T10:34:27.697Z'
+dateModified: '2018-01-13T10:35:04.104Z'
+datePublished: '2018-01-13T10:35:05.638Z'
 title: ''
 author: []
 publisher: {}
